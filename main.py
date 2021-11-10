@@ -1,6 +1,7 @@
 import xmltodict
 import requests
 import json
+import datetime
 
 headers = {"Content-Type":"application/json",
 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0", 
@@ -20,39 +21,107 @@ urlList = {
     }
 }
 
-#downlaod the file into memory
-res = requests.get(urlList["RL_S"], headers=headers)
+def download_files():
+    #downlaod the file into memory
+    res = requests.get(urlList["RL_S"], headers=headers)
 
 
-#write xml file into the HDD
-myfile = open("RL_S.xml", "w")
-myfile.write(res.text)
+    #write xml file into the HDD
+    myfile = open("RL_S.xml", "w")
+    myfile.write(res.text)
+
+    return res
+
+def convert_XMLtoJSON(res):
+    xmltodict_data = xmltodict.parse(res.content)
+    print(type(xmltodict_data))
+
+    json_data= json.dumps(xmltodict_data, indent=4, sort_keys=True)
+    #print(json_data)
+    x= open("RL_S.json","w")
+    x.write(json_data)
+    x.close()
+
+def filter_districtData(districtID):
+    x= open("RL_S.json")
+    data = json.load(x)
+
+    dist17List = []
+    # print(data)
+    #for jsonDict in 
+    # print(data["DATA"]["LPS"]["LP"])
+    for obj in data["DATA"]["LPS"]["LP"]:
+        #print(obj["DIST"])
+        if str(obj["DIST"]) == str(districtID):
+            dist17List.append(obj)
+
+    json_data = json.dumps(dist17List, indent=4, sort_keys=True, ensure_ascii=False)
+
+    y = open("dist17.json", "w", encoding="utf-8")
+    y.write(json_data)
+    y.close()
+
+def openFile(fileFullPath):
+    x= open(fileFullPath)
+    data = json.load(x)
+    return data
+
+def writeFile(data, fileName, exportFilePath, fileType="txt"):
+    y= open(exportFilePath+fileName, "w", encoding="utf-8")
+    # y.write(data)
+    for element in data:
+        y.write(element + "\n")
+    y.close()
+    print("file: {} write at {}".format(fileName, exportFilePath))
 
 
-xmltodict_data = xmltodict.parse(res.content)
-print(type(xmltodict_data))
 
-json_data= json.dumps(xmltodict_data, indent=4, sort_keys=True)
-#print(json_data)
-x= open("RL_S.json","w")
-x.write(json_data)
-x.close()
+def extract_address_toList(data):
+    list = []
 
-x= open("RL_S.json")
-data = json.load(x)
+    for obj in data:
+        # print(obj)
+        list.append(obj['ADR'])
+    # print(list)
+    writeFile(list, 'd17_ADR_only.txt', './')
 
-dist17List = []
-# print(data)
-#for jsonDict in 
-# print(data["DATA"]["LPS"]["LP"])
-for obj in data["DATA"]["LPS"]["LP"]:
-    #print(obj["DIST"])
-    if str(obj["DIST"]) == "17":
-        dist17List.append(obj)
 
-json_data = json.dumps(dist17List, indent=4, sort_keys=True, ensure_ascii=False)
 
-y = open("dist17.json", "w", encoding="utf-8")
-y.write(json_data)
-y.close()
+def main():
+    startTime = datetime.datetime.now()
+
+    df = openFile("dist17.json")
+    extract_address_toList(df)
+
+
+
+    # res = download_files()
+    # timeNow =  datetime.datetime.now()
+    # lastTimeStamp = timeNow
+    # print(
+    #     "last function use {} seconds to run".format(round((lastTimeStamp-startTime).total_seconds()))
+    # )
+
+    # convert_XMLtoJSON(res)
+    # timeNow =  datetime.datetime.now()
+    # print(
+    #     "last function use {} seconds to run".format(round((timeNow - lastTimeStamp).total_seconds()))
+    # )
+    # lastTimeStamp = timeNow
+
+    # filter_districtData(17) 
+    # timeNow =  datetime.datetime.now()
+    # print(
+    #     "last function use {} seconds to run".format(round((timeNow - lastTimeStamp).total_seconds()))
+    # )
+    # lastTimeStamp = timeNow
+
+    timeNow =  datetime.datetime.now()
+    print(
+        "Total use {} seconds to run".format(round((timeNow - startTime).total_seconds()))
+    )
+
+
+if __name__ == "__main__":
+    main()
     

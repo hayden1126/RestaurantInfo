@@ -1,0 +1,4610 @@
+[
+    {
+        "ADR": "G/F(PORTION), 1/F - 3/F, EASTERN COMMERCIAL PLAZA, 80 TUNG WAN ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-02",
+        "INFO": null,
+        "LICNO": "2217000020",
+        "SS": "長洲金冠大酒樓",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, NO. 9C PAK SHE PRAYA ROAD, CCHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-09",
+        "INFO": "#A",
+        "LICNO": "2217000048",
+        "SS": "真味海鮮菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 23 & 24 AND 1/F., 23 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-21",
+        "INFO": null,
+        "LICNO": "2217000066",
+        "SS": "Rainbow Seafood  Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "1/F. (PORTION), HEADLAND HOTEL, H.K. INT'L AIRPORT, 8 SCENIC ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-10",
+        "INFO": "#F#G#H",
+        "LICNO": "2217000075",
+        "SS": "Lion Rock Café",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "23/F. (PORTION), HEADLAND HOTEL, H.K. INT'L AIRPORT, 8 SCENIC ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-20",
+        "INFO": null,
+        "LICNO": "2217000127",
+        "SS": "Catalina's Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "MINOR PORTION  OF B/F AND SHOP G03 OF G/F, REGAL AIRPORT HOTEL, 9 CHEONG TAT ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-01",
+        "INFO": "#F",
+        "LICNO": "2217000136",
+        "SS": "China Coast Bar & Grill",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, LOT 1431, 117 TAI SAN PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-05",
+        "INFO": null,
+        "LICNO": "2217000154",
+        "SS": "凱得餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 29 TAI O MARKET STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-28",
+        "INFO": null,
+        "LICNO": "2217000224",
+        "SS": "福滿林",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., GRANDVIEW MANSION, 11C MUI WO FERRY PIER ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-11",
+        "INFO": null,
+        "LICNO": "2217000233",
+        "SS": "La Pizzeria",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., DD 3, LOT 2455, 9B SHEUNG LING PEI, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-23",
+        "INFO": null,
+        "LICNO": "2217000242",
+        "SS": "Tung Chung Pizza",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., LOT 186, 71 SAN HING PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-26",
+        "INFO": null,
+        "LICNO": "2217000251",
+        "SS": "Morocoo's Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F (PORTION), CANTEEN BLOCK, LO HON BUDDHIST MONASTERY, TC DD1, LOT 3003, 19 & 23 SHEK MUN KAP VILLAGE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-11",
+        "INFO": null,
+        "LICNO": "2217000279",
+        "SS": "Lo Hon Buddhist Monastery",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, NO.11C PAK SHE PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-12",
+        "INFO": "#A",
+        "LICNO": "2217000288",
+        "SS": "蘇波記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "2 CHEUNG CHAU CHURCH ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-21",
+        "INFO": null,
+        "LICNO": "2217000303",
+        "SS": "鄉村",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 104, 1/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-26",
+        "INFO": null,
+        "LICNO": "2217000312",
+        "SS": "McDonald's",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "DD 10, LOT 583, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-31",
+        "INFO": null,
+        "LICNO": "2217000330",
+        "SS": "Peach Garden Seafood Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 221, YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-02",
+        "INFO": null,
+        "LICNO": "2217000358",
+        "SS": "Café de Coral",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, NO. 1-2 KIN SAN LANE AND OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-16",
+        "INFO": "#A",
+        "LICNO": "2217000376",
+        "SS": "新菜園",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 94 HING LUNG MAIN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-21",
+        "INFO": null,
+        "LICNO": "2217000419",
+        "SS": "新大來餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "7T091, T1 LEVEL 7 (NORTH) & RM.8T010, 8T010A, T1 LEVEL 8 (NORTH), DEPARTURES CHECK-IN LEVEL, H.K. INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-24",
+        "INFO": null,
+        "LICNO": "2217000428",
+        "SS": "Maxim's．Jade Garden",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 96 TAI SAN PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-26",
+        "INFO": null,
+        "LICNO": "2217000446",
+        "SS": "得得店",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 15 LO WAI VILLAGE, PUI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000455",
+        "SS": "TAP TAP",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 53 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000464",
+        "SS": "Tai Hing Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "57 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000473",
+        "SS": "新華酒家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 21A MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000482",
+        "SS": "李芳園",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "1 CHUNG HAU ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000516",
+        "SS": "得仔記(生利)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "DD 316, STT NO.94, 49 LO UK VILLAGE, PUI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000534",
+        "SS": "GOOD VIEW RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "43 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000552",
+        "SS": "壽記海鮮酒家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 3 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000570",
+        "SS": "威記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "LOT 584, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000604",
+        "SS": "Fishing Village Club Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F. & COCKLOFT, 28A MUI WO CHUNG HAU STREET, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000613",
+        "SS": "新樂",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 5 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000640",
+        "SS": "Lamma Seaview Man Fung Seafood Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 5 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000659",
+        "SS": "Rainbow Seafood Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 85 TUNG WAN ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000668",
+        "SS": "Eggenberg Cafe Bar & Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 11 LO WAI TSUEN, PUI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000677",
+        "SS": "永裕泰",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F. TO 2/F., 20 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000686",
+        "SS": "龍華",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F - 2/F, 15 TAI O WING ON STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000701",
+        "SS": "好景",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., DD 332, LOT 681, 35 CHEUNG SHA LOWER VILLAGE, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000738",
+        "SS": "LONG ISLAND",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 28 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000747",
+        "SS": "LAMMA SNACK SHOP",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F TO 2/F, 32 PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000756",
+        "SS": "長洲金冠茶樓",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "8B, PENG CHAU WING ON STREET, G/F., PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000765",
+        "SS": "聯安",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 26 TONG FUK VILLAGE, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000774",
+        "SS": "Gallery",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "14A NAM CHUNG, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000792",
+        "SS": "Chung Lok Yuen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 1 KIN HONG STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000808",
+        "SS": "聯炳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "51, 53 & 55(R/P), G/F, 51-55, 1/F & 2/F (R/P), SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000817",
+        "SS": "東湖菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F & 1/F (REAR PORTION), 30 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000826",
+        "SS": "文記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "BLOCK A, G/F., GRANDVIEW MANSION, DD 4, LOT 669, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000835",
+        "SS": "Roman Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 35 & 37 TAI O WING ON STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000862",
+        "SS": "華記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F. (PORTION), SILVERMINE BEACH RESORT, DD 2, LOT 648, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000880",
+        "SS": "Silvermine Beach Resort",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 14 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000899",
+        "SS": "Tong Kee Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 36 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000905",
+        "SS": "LAMMA GRILL",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 20 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000941",
+        "SS": "Rainbow Seafood  Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F & C/L, 47 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217000969",
+        "SS": "BLUE GOOSE TAVERN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F & 1/F, 144 TAI SAN BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": "#G#H",
+        "LICNO": "2217000996",
+        "SS": "海之日日本料理",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 130 TAI O TAI PING STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001005",
+        "SS": "金培餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 91C PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001023",
+        "SS": "得得好店",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 13B NAM CHUNG TSUEN, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001032",
+        "SS": "海韻",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 37 CHUNG HING PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001041",
+        "SS": "明月謙",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "4B LO UK VILLAGE, PUI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001050",
+        "SS": "Aqua Doggo Restaurant & Bar",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 32 CHEUNG SHA LOWER VILLAGE, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001069",
+        "SS": "BATHERS",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 4 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001078",
+        "SS": "Wai Kee Sea Food Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 19C PAK SHE PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001096",
+        "SS": "Cheung Chau Bing Sutt",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 109 TAI SAN PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001102",
+        "SS": "燉奶佬",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 7 SAN KAI SHI LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001111",
+        "SS": "明樂",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 9A PAK SHE PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001120",
+        "SS": "新金湖海鮮菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F (FRONT BLOCK), 3 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001139",
+        "SS": "富苑菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, LOT 1510, 13B PAK SHE PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001157",
+        "SS": "恒樂餐廳菜 館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 2D PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001175",
+        "SS": "瑞華",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F(PORTION), DD 328, LOT 1809, 30 TONG FUK VILLAGE, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001184",
+        "SS": "德寶",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT, 11A PAK SHE PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": "#A",
+        "LICNO": "2217001193",
+        "SS": "康記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 46 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001209",
+        "SS": "創興餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 54 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001218",
+        "SS": "行來發餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 12 LO WAI TSUEN, PUI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001245",
+        "SS": "茂記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT AND AT SIDE OF, NO.12 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": "#A",
+        "LICNO": "2217001254",
+        "SS": "金興餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 39 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001263",
+        "SS": "海興隆",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., LOT 504, R.P., 60-61 HING LUNG BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001290",
+        "SS": "長洲人家燒鵝小廚",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT OF G/F, BLOCK A, NO.2 PAK SHE SIXTH LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": "#A",
+        "LICNO": "2217001306",
+        "SS": "興樂",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F & 1/F., 8 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001315",
+        "SS": "世外桃源",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F & 1/F, 13-15 PENG CHAU WING ON SIDE STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001324",
+        "SS": "海景酒家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F. (REAR PORTION), 36 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001333",
+        "SS": "巴黎餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOPFRONT, 10 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": "#A",
+        "LICNO": "2217001342",
+        "SS": "洲際式茶餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 17-20, AND THE OUTSIDE SEATING ACCOMMODATIONIN FRONT OF THE PREMISES, DD 4, LOT 710, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": "#A",
+        "LICNO": "2217001351",
+        "SS": "銀城海鮮酒家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "DD 7, LOT 485, 7 MO TAT WAN, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001360",
+        "SS": "The Bay",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 26-27 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001397",
+        "SS": "Lamma Rainbow Seafood Restaurant Limited",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 1/F & 2/F, DD 10, LOT 643, 15 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001412",
+        "SS": "泰園海鮮酒家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 39 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001421",
+        "SS": "牛記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 34 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001430",
+        "SS": "Wai's Burger",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F & 1/F., 16 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "2217001458",
+        "SS": "舢舨海鮮酒家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 12-14 PAK SHE STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-05",
+        "INFO": null,
+        "LICNO": "2217001476",
+        "SS": "劉平記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION OF B/F, G/F, 1/F & 2/F, REGAL AIRPORT HOTEL, 9 CHEONG TAT ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-15",
+        "INFO": "#F#G#H",
+        "LICNO": "2217001494",
+        "SS": "Regal Airport Hotel",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 104 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-15",
+        "INFO": null,
+        "LICNO": "2217001500",
+        "SS": "翁創興",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 10 HA LING PEI VILLAGE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-18",
+        "INFO": null,
+        "LICNO": "2217001519",
+        "SS": "Khao Tip Thai",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "KWUN YUM TEMPLE, DD 311, LOT 759, KEUNG SHAN, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-25",
+        "INFO": null,
+        "LICNO": "2217001537",
+        "SS": "Kwun Yum Temple",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 19, G/F., MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-06",
+        "INFO": null,
+        "LICNO": "2217001546",
+        "SS": "Bahce Turkish Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT, 13C PAK SHE PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-25",
+        "INFO": "#A",
+        "LICNO": "2217001555",
+        "SS": "潮發餐廳菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 38 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-04",
+        "INFO": null,
+        "LICNO": "2217001591",
+        "SS": "龍江",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., DD 3, LOT 2486, MA WAN VILLAGE, PA MEI ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-07",
+        "INFO": null,
+        "LICNO": "2217001607",
+        "SS": "天廚菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., DD 313, LOT 769, 16-18 TAI O WING ON STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-15",
+        "INFO": null,
+        "LICNO": "2217001625",
+        "SS": "Venice Seafood Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 1A-1B SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-19",
+        "INFO": null,
+        "LICNO": "2217001634",
+        "SS": "凱星",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., DD 3, LOT 1738, 26 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-21",
+        "INFO": null,
+        "LICNO": "2217001643",
+        "SS": "Green Cottage",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 24 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-30",
+        "INFO": "#G#H",
+        "LICNO": "2217001661",
+        "SS": "Blue Bird",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 6 YUNG SHUE WAN BACK STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-07",
+        "INFO": null,
+        "LICNO": "2217001670",
+        "SS": "BOMBAY BAR & RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., DD 3, LOT 2120, 67 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-07",
+        "INFO": null,
+        "LICNO": "2217001689",
+        "SS": "Banyan Bay Cafe",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, CANTEEN  BLOCK & G/F (PORTION), KITCHEN BLOCK, LING YAN TEMPLE, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-11-20",
+        "INFO": null,
+        "LICNO": "2217001713",
+        "SS": "Ling Yan Temple",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G01, G/F., REGAL AIRPORT HOTEL, 9 CHEONG TAT ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-22",
+        "INFO": "#G#H",
+        "LICNO": "2217001722",
+        "SS": "Airport Izakaya",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS.  1, 3 & 5, G/F & C/L, AND THE OUTSIDE SEATING ACCOMMODATION IN OPEN SPACE AT SIDE, MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-11-25",
+        "INFO": "#A",
+        "LICNO": "2217001740",
+        "SS": "McDonald's",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 73-74 SUN WAI CHUEN, PUI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-12-01",
+        "INFO": null,
+        "LICNO": "2217001759",
+        "SS": "YING FUNG KITCHEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., LOT 1660, 65 SAN HING PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-07",
+        "INFO": null,
+        "LICNO": "2217001768",
+        "SS": "恒美菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 22 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-18",
+        "INFO": null,
+        "LICNO": "2217001795",
+        "SS": "B & B",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "KITCHEN BLOCK AND CANTEEN BLOCK, G/F., PO LIN MONASTERY, LOT NO. 212, NGONG PING, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-12-22",
+        "INFO": null,
+        "LICNO": "2217001801",
+        "SS": "Po Lin Monastery",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 40 LOWER CHEUNG SHA VILLAGE, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-28",
+        "INFO": null,
+        "LICNO": "2217001883",
+        "SS": "Lantana",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 79 TAI SAN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-14",
+        "INFO": null,
+        "LICNO": "2217001892",
+        "SS": "帆船餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., AND THE OUTSIDE SEATING ACCOMMODATION ON PLATFORM AT SIDE, 58 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-16",
+        "INFO": "#A",
+        "LICNO": "2217001917",
+        "SS": "Waterfront Restaurant & Bar",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 114, YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-17",
+        "INFO": null,
+        "LICNO": "2217001926",
+        "SS": "Ga Gee Lounge",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G09B, G/F., BLOCK A, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-24",
+        "INFO": null,
+        "LICNO": "2217001944",
+        "SS": "FIGOS",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "LEVEL 1 (PORTIONS), DISNEY'S HOLLYWOOD HOTEL, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-20",
+        "INFO": "#G#H",
+        "LICNO": "2217001962",
+        "SS": "Disney's Hollywood Hotel",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "AL-501 (PORTION), ADVENTURELAND, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-17",
+        "INFO": null,
+        "LICNO": "2217001999",
+        "SS": "Riverview",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "FL-405 (PORTION), FANTASYLAND, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-03",
+        "INFO": "#G#H",
+        "LICNO": "2217002008",
+        "SS": "Royal Banquet Hall",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "LEVELS 1, 3 & 7 (PORTIONS), HONG KONG DISNEYLAND HOTEL, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-04",
+        "INFO": "#F#G#H",
+        "LICNO": "2217002017",
+        "SS": "Hong Kong Disneyland Hotel",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "MS-208 (PORTION), MAIN STREET, U.S.A., HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-25",
+        "INFO": null,
+        "LICNO": "2217002026",
+        "SS": "Main Street Corner Cafe'",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PLAZA INN, MS-211 (PORTION), MAIN STREET, U.S.A., HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-31",
+        "INFO": null,
+        "LICNO": "2217002035",
+        "SS": "Jade Garden & Cha Cha Room",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 13 KIN SAN LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-07",
+        "INFO": "#G#H",
+        "LICNO": "2217800031",
+        "SS": "瀛.窩居",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "GROUND FLOOR, 78 WING ON STREET, PENG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-11",
+        "INFO": null,
+        "LICNO": "2217800059",
+        "SS": "華興飯店",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 21 HALING PEI TSUEN, TUNG CHUNG ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-22",
+        "INFO": null,
+        "LICNO": "2217800068",
+        "SS": "Mansarover",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "IKON, 2/F., ASIAWORLD-EXPO, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-23",
+        "INFO": "#G#H",
+        "LICNO": "2217800077",
+        "SS": "NUVA",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "F&B 15, 1/F., ASIA WORLD-EXPO, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-23",
+        "INFO": null,
+        "LICNO": "2217800086",
+        "SS": "ARENA KITCHEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "1/F (RESTAURANT AREA), 2/F (PANTRY 01) & 3/F (RESTAURANT & PANTRY 02), NOVOTEL CITYGATE, 51 MAN TUNG ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-24",
+        "INFO": "#F#G#H",
+        "LICNO": "2217800147",
+        "SS": "Novotel Citygate Hong Kong",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 10 KIN SAN LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-19",
+        "INFO": null,
+        "LICNO": "2217800174",
+        "SS": "為食堡",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G11A-1, G/F., BLOCK B AND OUTSIDE SEATING ACCOMMODATIONOF THE PREMISES, DB PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-10",
+        "INFO": "#A",
+        "LICNO": "2217800208",
+        "SS": "McSorley's Ale House (Faith Joy Limited)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 3, G/F & SHOP 4, G/F & 1/F., NGONG PING THEME VILLAGE, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-19",
+        "INFO": null,
+        "LICNO": "2217800217",
+        "SS": "Ngong Ping Garden Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G02, G/F., BLOCK A, D.B.  PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-13",
+        "INFO": null,
+        "LICNO": "2217800235",
+        "SS": "McDonald's Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G09, G/F., BLOCK A, DB PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-10",
+        "INFO": null,
+        "LICNO": "2217800253",
+        "SS": "HEMINGWAY'S BY THE BAY",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 104A, BLOCK A, 1/F., DB PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-14",
+        "INFO": null,
+        "LICNO": "2217800262",
+        "SS": "一麵春風",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "NO. 1, G/F., WONG NAI UK VILLAGE, TUNG CHUNG, D.D. 3, LOT NO. 2420, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-14",
+        "INFO": null,
+        "LICNO": "2217800271",
+        "SS": "金泰屋泰國菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 8 HA LING PEI TSUEN, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-07",
+        "INFO": null,
+        "LICNO": "2217800280",
+        "SS": "HANDI INDIAN RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F (PORTION), WARWICK HOTEL, EAST BAY, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-19",
+        "INFO": null,
+        "LICNO": "2217800299",
+        "SS": "Warwick Hotel",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 102B, BLOCK A, 1/F., DB PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-27",
+        "INFO": null,
+        "LICNO": "2217800305",
+        "SS": "FIRST KOREAN RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "CX808, PO TOI ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-04",
+        "INFO": null,
+        "LICNO": "2217800323",
+        "SS": "Ming Kee Seafood Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G08B, G/F., BLOCK A, DB PLAZA, DISCOVERY BAY, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-22",
+        "INFO": "#F",
+        "LICNO": "2217800457",
+        "SS": "22 North",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 105B, 1/F., BLOCK A, DB PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-25",
+        "INFO": null,
+        "LICNO": "2217800484",
+        "SS": "Koh Tomyums Thai Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 110A, 1/F., FU TUNG PLAZA, FU TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-19",
+        "INFO": null,
+        "LICNO": "2217800527",
+        "SS": "Deluxe Cuisine",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 24, G/F., TUNG CHUNG CRESCENT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-07",
+        "INFO": null,
+        "LICNO": "2217800606",
+        "SS": "Pizza Hut",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT, 11 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-25",
+        "INFO": "#A",
+        "LICNO": "2217800615",
+        "SS": "天樂餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 33 KAT HING STREET, TAI O, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-19",
+        "INFO": null,
+        "LICNO": "2217800633",
+        "SS": "大澳橫水渡小廚",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "GROUND FLOOR, NO. 97 SAN HING STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-13",
+        "INFO": null,
+        "LICNO": "2217800660",
+        "SS": "密密食",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "6W564, WEST HALL, AIRSIDE, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-21",
+        "INFO": "#F#G#H",
+        "LICNO": "2217800679",
+        "SS": "East to West Food Market",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "1/F (PORTION B) AND M/F (PORTION B), HONG KONG SKYCITY MARRIOTT HOTEL, 1 SKY CITY ROAD EAST, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-26",
+        "INFO": "#F#G#H",
+        "LICNO": "2217800697",
+        "SS": "Man Ho Chinese Restaurant / Red Zen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F (PORTION A) AND M/F (PORTION A), HONG KONG SKYCITY MARRIOTT HOTEL, 1 SKY CITY ROAD EAST, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-28",
+        "INFO": "#F#G#H",
+        "LICNO": "2217800703",
+        "SS": "Velocity Bar and Grill",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "1/F (PORTION A), HONG KONG SKYCITY MARRIOTT HOTEL, 1 SKY CITY ROAD EAST, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-31",
+        "INFO": "#F#G#H",
+        "LICNO": "2217800712",
+        "SS": "Sky City Bistro / Java+ / the Lounge",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP UNIT 18 ON PODIUM FIRST FLOOR OF CARIBBEAN SQUARE, CARIBBEAN COAST, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-16",
+        "INFO": null,
+        "LICNO": "2217800721",
+        "SS": "Fairwood Fast Food",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 5E538C, LEVEL 5, PASSENGER TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-10",
+        "INFO": null,
+        "LICNO": "2217800758",
+        "SS": "Super Super",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 112, 1/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-04",
+        "INFO": null,
+        "LICNO": "2217800767",
+        "SS": "McDonald's Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "FLAT B, G/F., 23B YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-10",
+        "INFO": null,
+        "LICNO": "2217800776",
+        "SS": "BEER GARDEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "26 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-14",
+        "INFO": null,
+        "LICNO": "2217800785",
+        "SS": "勝興",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "RESTAURANT 3, PODIUM LEVEL 1, COASTAL SKYLINE, 12 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-06",
+        "INFO": null,
+        "LICNO": "2217800794",
+        "SS": "Tao Heung",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO. 5T053, LEVEL 5, PASSENGER TERMINAL BUILDING 1, HONG KONG INTERNATIONAL AIRPORT, 1 CHEONG HONG ROAD, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-17",
+        "INFO": null,
+        "LICNO": "2217800828",
+        "SS": "Delifrance",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 9 TAI HING TAI ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-27",
+        "INFO": null,
+        "LICNO": "2217800837",
+        "SS": "天然甜品",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 5T160, PASSENGER TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-07",
+        "INFO": null,
+        "LICNO": "2217800846",
+        "SS": "Crystal Jade La Mian Xiao Long Bao",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION OF UNIT 6T530, DEPARTURE HALL, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-29",
+        "INFO": null,
+        "LICNO": "2217800855",
+        "SS": "Plaza Premium First / Plaza Premium Lounge",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP K, G/F., SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-28",
+        "INFO": null,
+        "LICNO": "2217800882",
+        "SS": "Mint & Basil Thai Vietnamese Cuisine",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "LANTAU TEA GARDEN, NGONG PING, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-12",
+        "INFO": null,
+        "LICNO": "2217800907",
+        "SS": "Lantau Tea Garden",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS. 2 & 3, GROUND FLOOR, FU TUNG SHOPPING CENTRE, FU TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-18",
+        "INFO": null,
+        "LICNO": "2217800916",
+        "SS": "AJISEN RAMEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 5NC120, LEVEL 5, NORTH SATELLITE CONCOURSE, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-15",
+        "INFO": null,
+        "LICNO": "2217800934",
+        "SS": "Chinese Kitchen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., (REAR), 40 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-17",
+        "INFO": null,
+        "LICNO": "2217800952",
+        "SS": "南昌美食",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT OF G/F., NO. 17A PAK SHE PRAYA ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-02",
+        "INFO": "#A",
+        "LICNO": "2217800961",
+        "SS": "Chiang Mai Thai Food",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "MAJOR PORTION OF HALL 2, MINOR PORTION OF HALL 1, MINOR PORTION OF HALL 9 AND PORTION OF HALL 11, ASIAWORLD-EXPO, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-05",
+        "INFO": "#G",
+        "LICNO": "2217800970",
+        "SS": "AsiaWorld-Summit",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G29, G/F., 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-25",
+        "INFO": null,
+        "LICNO": "2217801025",
+        "SS": "Mirch Masala Indian Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION A, SHOP NO. 9, G/F., NGONG PING THEME VILLAGE, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-13",
+        "INFO": null,
+        "LICNO": "2217801043",
+        "SS": "EBENEEZER'S KEBABS & PIZZERIA",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 11, G/F., MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-19",
+        "INFO": null,
+        "LICNO": "2217801052",
+        "SS": "DEER HORN RESTAURANT &' BAR",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 9, G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-24",
+        "INFO": null,
+        "LICNO": "2217801061",
+        "SS": "譚仔三哥米線",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G28, G/F., 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-16",
+        "INFO": null,
+        "LICNO": "2217801089",
+        "SS": "PAISANOS",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP B13, B1/F., CITYGATE OUTLETS, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-16",
+        "INFO": "#F#G#H",
+        "LICNO": "2217801098",
+        "SS": "Kyo Watami Robata Grill & Japanese Cuisine",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP A1, G/F., SILVER CENTRE BUILDING, MUI WO, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-11",
+        "INFO": null,
+        "LICNO": "2217801104",
+        "SS": "強記咖喱王餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G, G/F., RETAIL SEAVIEW CRESCENT, NO. 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-22",
+        "INFO": null,
+        "LICNO": "2217801113",
+        "SS": "OUZO BAR AND RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 16 BACK STREET YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-14",
+        "INFO": null,
+        "LICNO": "2217801140",
+        "SS": "TAK  RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, C/L (PORTION) AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT OF SHOP NO.1, SCENIC CREST, 18A MUI WO FERRY PIER ROAD, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-14",
+        "INFO": "#A",
+        "LICNO": "2217801159",
+        "SS": "the kitchen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 9-10 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-26",
+        "INFO": null,
+        "LICNO": "2217801168",
+        "SS": "富記",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION OF 1/F., TAI O HERITAGE HOTEL (OLD TAI O POLICE STATION), SHEK TSAI PO STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-30",
+        "INFO": null,
+        "LICNO": "2217801186",
+        "SS": "TAI O LOOK OUT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 62 PAK SHE STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-13",
+        "INFO": null,
+        "LICNO": "2217801195",
+        "SS": "康蘭泰式食",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 106 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-07",
+        "INFO": null,
+        "LICNO": "2217801201",
+        "SS": "正記川粵菜館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 7A - 7B YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-11",
+        "INFO": null,
+        "LICNO": "2217801210",
+        "SS": "Spicy Island",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 17, GROUND FLOOR, COMMERCIAL CENTRE 1, YAT TUNG ESTATE, 8 YAT TUNG STREET, NEW TERRITORIES, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-28",
+        "INFO": null,
+        "LICNO": "2217801229",
+        "SS": "KFC",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., BLOCK 2, LOT 2261 IN D.D.3, WONG NAI UK, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-23",
+        "INFO": null,
+        "LICNO": "2217801238",
+        "SS": "大頭蝦南風海鮮酒家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 119, 1/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-21",
+        "INFO": "#G#H",
+        "LICNO": "2217801247",
+        "SS": "Nabe Urawa",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "2 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-07",
+        "INFO": null,
+        "LICNO": "2217801265",
+        "SS": "華都",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "MAJOR PORTION OF UNITS 7T102A, LEVEL 7, UNITS 8T006  & 8T007, LEVEL 8, EAST HALL, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-29",
+        "INFO": null,
+        "LICNO": "2217801274",
+        "SS": "翠華餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 3 KIN SAN LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-08",
+        "INFO": null,
+        "LICNO": "2217801308",
+        "SS": "CHOCODUCK BISTRO",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 102A, 1/F., BLK. A, DISCOVERY BAY PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-26",
+        "INFO": null,
+        "LICNO": "2217801317",
+        "SS": "Ebeneezer's Kebabs & Pizzeria",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "2/F (PORTION A), AUBERGE DISCOVERY BAY, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-05",
+        "INFO": null,
+        "LICNO": "2217801335",
+        "SS": "No Record",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F (PORTION A), AUBERGE DISCOVERY BAY, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-05",
+        "INFO": "#G#H",
+        "LICNO": "2217801344",
+        "SS": "No Record",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F (PORTION C) AND 1/F (PORTION A), AUBERGE DISCOVERY BAY, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-09",
+        "INFO": null,
+        "LICNO": "2217801353",
+        "SS": "No Record",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 101, G/F & 1/F., BLOCK A, DB PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-31",
+        "INFO": null,
+        "LICNO": "2217801362",
+        "SS": "SOLERA SPANISH RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G03A, G/F., BLOCK A, DB PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-02",
+        "INFO": null,
+        "LICNO": "2217801371",
+        "SS": "PASCUCCI ITALIAN CAFFE & FINE FOOD",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "AL-531 (PORTION), MYSTIC POINT, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-05",
+        "INFO": null,
+        "LICNO": "2217801380",
+        "SS": "EXPLORER'S CLUB RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 217, 2/F., COMMERCIAL CENTRE 1 (YAT TUNG SHOPPING CENTRE), YAT TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-05",
+        "INFO": null,
+        "LICNO": "2217801399",
+        "SS": "HONORARY FAMILY",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 21 TAI O MARKET STREET, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-22",
+        "INFO": null,
+        "LICNO": "2217801405",
+        "SS": "肥妹燒烤小食",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 2, NGONG PING VILLAGE, NGONG PING, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-20",
+        "INFO": null,
+        "LICNO": "2217801414",
+        "SS": "Zen Noodle Cafe",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 101, 1/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-20",
+        "INFO": null,
+        "LICNO": "2217801423",
+        "SS": "TSUI WAH RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP D, G/F., BLOCK D, GRANDVIEW MANSION, 11 MUI WO FERRY PIER ROAD, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-30",
+        "INFO": null,
+        "LICNO": "2217801441",
+        "SS": "NITAYA'S THAI KITCHEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 82 PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-20",
+        "INFO": null,
+        "LICNO": "2217801450",
+        "SS": "青雲棧",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 77 MAIN STREET YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-05",
+        "INFO": null,
+        "LICNO": "2217801496",
+        "SS": "HIDEOUT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP PC2, PENG CHAU FERRY PIER, LO PENG STREET, PENG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-11",
+        "INFO": null,
+        "LICNO": "2217801539",
+        "SS": "坪洲海岸",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 6 & 7B, NGONG PING VILLAGE, NGONG PING, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-16",
+        "INFO": "#G#H",
+        "LICNO": "2217801548",
+        "SS": "Matsuzaka Express",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 25, G/F., BLOCK 3, TUNG CHUNG CRESCENT, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-24",
+        "INFO": "#G#H",
+        "LICNO": "2217801557",
+        "SS": "Hong Kong Day",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 6 KIN SAN LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-07",
+        "INFO": null,
+        "LICNO": "2217801584",
+        "SS": "鈴小町",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 1, G/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-20",
+        "INFO": "#F",
+        "LICNO": "2217801593",
+        "SS": "AMANTE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F, 50 CHEUNG SHA LOWER VILLAGE, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-31",
+        "INFO": null,
+        "LICNO": "2217801636",
+        "SS": "小隱於野",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP FRONT & REAR PORTION, G/F., NO. 58 WING ON STREET, TAI O, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-12",
+        "INFO": null,
+        "LICNO": "2217801645",
+        "SS": "君鴻上海小館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 9A1, G/F., THE COMMERCIAL DEVELOPMENT COASTAL SKYLINE, NO. 12 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-26",
+        "INFO": null,
+        "LICNO": "2217801681",
+        "SS": "My Thai",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 3, G/F., SCENIC CREST, 18A MUI WO FERRY PIER ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-13",
+        "INFO": null,
+        "LICNO": "2217801706",
+        "SS": "ISARA",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "5T151, LEVEL 5, ARRIVALS HALL, PASSENGER TERMINAL BUILDING, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-03",
+        "INFO": null,
+        "LICNO": "2217801715",
+        "SS": "TAI HING",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F. (PORTION), 11 TUNG WAN TAU ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-20",
+        "INFO": null,
+        "LICNO": "2217801724",
+        "SS": "(No record found)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 5T161, LEVEL 5, ARRIVALS HALL, PASSENGER TERMINAL BUILDING, H.K. INT'L AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-26",
+        "INFO": null,
+        "LICNO": "2217801733",
+        "SS": "何洪記(1946)粥麵專家",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 6W524, LEVEL 6, WEST HALL, DEPARTURES FLOOR, PASSENGER TERMINAL BUILDING, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-22",
+        "INFO": "#G#H",
+        "LICNO": "2217801742",
+        "SS": "East to West Food Market",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO. 6MC055 & 6MC056, LEVEL 6, MIDFIELD CONCOURSE, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-13",
+        "INFO": null,
+        "LICNO": "2217801751",
+        "SS": "MX",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 6MC200-201, MIDFIELD CONCOURSE, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-02",
+        "INFO": null,
+        "LICNO": "2217801760",
+        "SS": "Ajisen Ramen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 21, G/F., FU TUNG PLAZA, FU TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-12-01",
+        "INFO": null,
+        "LICNO": "2217801788",
+        "SS": "MAN WAH RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS. 5 & 6 ON LEVEL 1 OF  THE COMMERCIAL ACCOMMODATION OF THE VISIONARY, NO. 1 YING HONG STREET, TUNG CHUNG, THE LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-12-12",
+        "INFO": null,
+        "LICNO": "2217801797",
+        "SS": "Super Super",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "RESTAURANT BUILDING AT TAT TUNG ROAD GARDEN, TAT TUNG ROAD, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-14",
+        "INFO": null,
+        "LICNO": "2217801803",
+        "SS": "MIDAM KOREAN RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 68 WING ON STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-19",
+        "INFO": null,
+        "LICNO": "2217801812",
+        "SS": "大澳士多",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SEATING AREA OUTSIDE SHOP G24 AND SHOP G24, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-31",
+        "INFO": null,
+        "LICNO": "2217801821",
+        "SS": "Teawood Taiwanese Cafe & Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT G25, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-20",
+        "INFO": null,
+        "LICNO": "2217801830",
+        "SS": "Nha Trang (CG) Vietnamese Cuisine",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS. 4 & 5, G/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-10",
+        "INFO": null,
+        "LICNO": "2217801858",
+        "SS": "SUGAR & SPICE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT G21, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-05",
+        "INFO": null,
+        "LICNO": "2217801885",
+        "SS": "PIZZAEXPRESS",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT G22, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-20",
+        "INFO": null,
+        "LICNO": "2217801894",
+        "SS": "MOON LOK CHIU CHOW",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 141 TAI SAN BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-01",
+        "INFO": "#E#F#G#H",
+        "LICNO": "2217801900",
+        "SS": "TUNG WONG RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS. 101-102 AND OUTSIDE SEATING ACCOMMODATION AT THE REAR OF THE PREMISES, FIRST FLOOR, CENTURY LINK, NO. 6 YING HONG STREET, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-08",
+        "INFO": "#A",
+        "LICNO": "2217801919",
+        "SS": "Fairwood Fast Food",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "STALL NO. 100, G/F., YAT TUNG ESTATE MARKET, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-08",
+        "INFO": null,
+        "LICNO": "2217801928",
+        "SS": "金銘潮州粉麵",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 39 CHEUNG SHA LOWER VILLAGE, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-12",
+        "INFO": null,
+        "LICNO": "2217801937",
+        "SS": "Lantau Diner",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G12, G/F., 92 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-12",
+        "INFO": null,
+        "LICNO": "2217801946",
+        "SS": "Cali-Mex",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT G20, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-20",
+        "INFO": null,
+        "LICNO": "2217801955",
+        "SS": "URBAN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "3 CHUNG HAU ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-15",
+        "INFO": null,
+        "LICNO": "2217801973",
+        "SS": "福聚來",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS. 103-104, FIRST FLOOR, CENTURY LINK, NO. 6 YING HONG STREET, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-06",
+        "INFO": null,
+        "LICNO": "2217801982",
+        "SS": "HAK-KA-HUT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 110B, FIRST FLOOR, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS FU TUNG PLAZA), FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-11",
+        "INFO": null,
+        "LICNO": "2217802000",
+        "SS": "Cafe de Coral",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G01B, G/F., BLOCK A, DB PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-15",
+        "INFO": null,
+        "LICNO": "2217802019",
+        "SS": "PIZZAEXPRESS",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 42 PRAYA STREET, CHEUNG CHAU, ISLANDS, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-22",
+        "INFO": null,
+        "LICNO": "2217802028",
+        "SS": "Hungry Fellows",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS. 18-19, G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, 8 YAT TUNG STREET, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-06",
+        "INFO": null,
+        "LICNO": "2217802037",
+        "SS": "Windows Cafe",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 10 MA WAN NEW VILLAGE, LOT NO. 2475 IN D.D. 3, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-22",
+        "INFO": null,
+        "LICNO": "2217802046",
+        "SS": "coffee hut",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F.(PORTION), 1 SOK KWU WAN FIRST STREET, DD 10 LOT 591, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-22",
+        "INFO": null,
+        "LICNO": "2217802055",
+        "SS": "LOSO KITCHEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 52 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-25",
+        "INFO": null,
+        "LICNO": "2217802064",
+        "SS": "FOODERFUL",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "LEVEL 02 (PORTION), DISNEY EXPLORERS LODGE, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-26",
+        "INFO": "#F#G#H",
+        "LICNO": "2217802073",
+        "SS": "Dragon Wind / World of Color Restaurant / Chart Room Cafe",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 23 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-15",
+        "INFO": null,
+        "LICNO": "2217802082",
+        "SS": "DALE CANDELA TAPAS",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G05 (MAJOR PORTION), G/F., BLOCK A, DB PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-15",
+        "INFO": null,
+        "LICNO": "2217802107",
+        "SS": "La Creation",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 16, GROUND FLOOR, TUNG CHUNG CRESCENT, TUNG CHUNG TOWN LOT NO.1, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-07",
+        "INFO": null,
+        "LICNO": "2217802116",
+        "SS": "Super Super & Mixian Sense",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO. 5T060, LEVEL 5, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-13",
+        "INFO": null,
+        "LICNO": "2217802125",
+        "SS": "Tonkotsu 8",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "STALL NO. 99, G/F., YAT TUNG MARKET, YAT TUNG ESTATE, NO. 8 YAT TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-17",
+        "INFO": null,
+        "LICNO": "2217802134",
+        "SS": "DAI SIU CAFE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP E & F, G/F., SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-19",
+        "INFO": null,
+        "LICNO": "2217802143",
+        "SS": "A TAVOLA",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO.7T102, 8T005A AND 8T005, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, 1 CHEONG HONG ROAD, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-11",
+        "INFO": null,
+        "LICNO": "2217802152",
+        "SS": "McDonald's Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NOS. 7E138-7E139 & 7E152, LEVEL 7, DEPARTURES EAST HALL, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-11",
+        "INFO": null,
+        "LICNO": "2217802170",
+        "SS": "BEEF & LIBERTY",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP H, G/F., SEAVIEW CRESCENT, NO. 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-01",
+        "INFO": "#F#G#H",
+        "LICNO": "2217802198",
+        "SS": "KAIE JAPANESE RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP N, G/F., SEAVIEW CRESCENT SHOPPING ARCADE, TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-14",
+        "INFO": null,
+        "LICNO": "2217802204",
+        "SS": "十足風味",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 102 TAI SAN BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-21",
+        "INFO": null,
+        "LICNO": "2217802213",
+        "SS": "SIU SHOP",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 18 HA LING PEI VILLAGE, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-20",
+        "INFO": null,
+        "LICNO": "2217802222",
+        "SS": "TUNG CHUNG FORT KITCHEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 2, G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, 1 YING TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-28",
+        "INFO": null,
+        "LICNO": "2217802231",
+        "SS": "Itamomo Cafe",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "MAJOR PORTION OF SHOP NO. 316FB GROUND FLOOR,  PASSENGER CLEARANCE BUILDING, HONG KONG BOUNDARY CROSSING FACILITIES, HONG KONG-ZHUHAI-MACAO BRIDGE, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-11",
+        "INFO": null,
+        "LICNO": "2217802240",
+        "SS": "Tsui Wah Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 3A, 1/F., THE VISIONARY, 1 YING HONG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-11",
+        "INFO": null,
+        "LICNO": "2217802259",
+        "SS": "LA ROSABELLE ROTISSERIE & BOUCHERIE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NOS. 7MC200 & 7MC214 IN MIDFIELD CONCOURSE, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-01",
+        "INFO": null,
+        "LICNO": "2217802277",
+        "SS": "BITE&BITE WITH LINE FRIENDS/The Flight Deck Restaurant & Bar",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 1, G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, 1 YING TUNG ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-04",
+        "INFO": null,
+        "LICNO": "2217802286",
+        "SS": "Y.T.O. LOCAL RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., FRONT BLOCK, 9D PAK SHE PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-09",
+        "INFO": null,
+        "LICNO": "2217802295",
+        "SS": "LA PIAZZETTA",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 104 MA WAN CHUNG VILLAGE (LOT NO. 2400 IN DD3), TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-09",
+        "INFO": null,
+        "LICNO": "2217802301",
+        "SS": "CHUNG HAU RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 20 CHUNG HING SAN STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-19",
+        "INFO": null,
+        "LICNO": "2217802338",
+        "SS": "Starry Kitchen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 6V525, LEVEL 6, DEPARTURES NORTHWEST CONCOURSE, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-09",
+        "INFO": null,
+        "LICNO": "2217802347",
+        "SS": "Windows Cafe",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO. 8T011 & 8T012, LEVEL 8, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-12",
+        "INFO": "#G",
+        "LICNO": "2217802356",
+        "SS": "Lime Garden (Sky) +",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F. (PORTION) AND 1/F., SHOP NO. 105A, BLOCK A, DB PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-25",
+        "INFO": null,
+        "LICNO": "2217802365",
+        "SS": "ISLAND CAFE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 4 TAI SAN PRAYA ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-07",
+        "INFO": null,
+        "LICNO": "2217802374",
+        "SS": "Spaghetti & Pizza",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 7E111A, 7E111 AND 7E125, LEVEL 7, EAST HALL, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-20",
+        "INFO": null,
+        "LICNO": "2217802383",
+        "SS": "Jardin De Jade",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 90-90B HING LUNG MAIN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-20",
+        "INFO": null,
+        "LICNO": "2217802392",
+        "SS": "家家樂",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "NO. 20, G/F., MA WAN SUN TSUEN, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-24",
+        "INFO": null,
+        "LICNO": "2217802408",
+        "SS": "喜旺茶餐廳",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 2 MA WAN NEW VILLAGE, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-31",
+        "INFO": null,
+        "LICNO": "2217802417",
+        "SS": "COCO CAFE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G04, G/F & SHOP 103, 1/F., BLOCK A, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-22",
+        "INFO": null,
+        "LICNO": "2217802435",
+        "SS": "ZAKS",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 9 KIN SAN LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-09",
+        "INFO": null,
+        "LICNO": "2217802444",
+        "SS": "熾工房",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 34, G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, 8 YAT TUNG STREET, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-19",
+        "INFO": null,
+        "LICNO": "2217802453",
+        "SS": "THE SIXTIES RESTAURANT",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 255 & 301, 2/F. & 3/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-23",
+        "INFO": "#G",
+        "LICNO": "2217802462",
+        "SS": "JASMINE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 326B., AND OUTSIDE SEATING ACCOMMODATION ON FLAT ROOF OF SHOP 326B, 3RD FLOOR, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-29",
+        "INFO": "#A",
+        "LICNO": "2217802471",
+        "SS": "Outback Steakhouse",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 706, 7/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-29",
+        "INFO": "#G",
+        "LICNO": "2217802480",
+        "SS": "Gyukaku Jinan-Bou",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 702, 7/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-01",
+        "INFO": null,
+        "LICNO": "2217802499",
+        "SS": "Ten Ren's Tea, Chef Hung Taiwanese Beef Noodle",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 601 AND AN OUTSIDE SEATING ACCOMMODATION AT REAR, 6/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-02",
+        "INFO": "#A",
+        "LICNO": "2217802514",
+        "SS": "SIXA",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 286, 2/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-04",
+        "INFO": null,
+        "LICNO": "2217802532",
+        "SS": "Chun Shui Tang",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 602-603, 6/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-04",
+        "INFO": "#G#H",
+        "LICNO": "2217802541",
+        "SS": "GENKI SUSHI/ IPPUDO",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 68 TAI SAN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-05",
+        "INFO": null,
+        "LICNO": "2217802550",
+        "SS": "Lucky Star",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 326A, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-06",
+        "INFO": null,
+        "LICNO": "2217802569",
+        "SS": "Paradise Dynasty",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G10 & 101, JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-26",
+        "INFO": null,
+        "LICNO": "2217802578",
+        "SS": "Grand Kitchen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO. 5T150, LEVEL 5, ARRIVALS MEETERS & GREETERS HALL, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-27",
+        "INFO": null,
+        "LICNO": "2217802587",
+        "SS": "WOLFGANG PUCK KITCHEN + BAR",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 701, 7/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-01",
+        "INFO": null,
+        "LICNO": "2217802596",
+        "SS": "GOOBNE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP AT DD 10, LOT 659, G/F., LO SO SHING VILLAGE, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-10",
+        "INFO": null,
+        "LICNO": "2217802602",
+        "SS": "南島海鮮小館",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 510, 5TH FLOOR, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-16",
+        "INFO": null,
+        "LICNO": "2217802611",
+        "SS": "LAW MARK KEE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 703, 7TH FLOOR, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-16",
+        "INFO": null,
+        "LICNO": "2217802620",
+        "SS": "Wheatfield X Borsch & Noodles",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 317, 3/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-05",
+        "INFO": "#G#H",
+        "LICNO": "2217802657",
+        "SS": "Hana",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 417, 4/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-06",
+        "INFO": null,
+        "LICNO": "2217802666",
+        "SS": "XIHE BISTRO",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G11, G/F., JOYSMARK, MUN TUNG ESTATE, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-22",
+        "INFO": null,
+        "LICNO": "2217802684",
+        "SS": "滿東冰室",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 97 MA WAN CHUNG VILLAGE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-23",
+        "INFO": null,
+        "LICNO": "2217802693",
+        "SS": "Spicy Fresco",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 93 TAI SAN PRAYA STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-27",
+        "INFO": null,
+        "LICNO": "2217802709",
+        "SS": "Hon Hin Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP R & S, G/F., SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-27",
+        "INFO": null,
+        "LICNO": "2217802718",
+        "SS": "Curry  Lounge",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 334 & SEATING AREA OPPOSITE TO SHOP 334, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-10",
+        "INFO": null,
+        "LICNO": "2217802727",
+        "SS": "BANCHAN AND COOK",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 306, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-11",
+        "INFO": null,
+        "LICNO": "2217802736",
+        "SS": "ORERYUSHIO",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 101A, 1/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-11",
+        "INFO": null,
+        "LICNO": "2217802745",
+        "SS": "Kaneko Hannosuke (Citygate Shop)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO. 7T090, LEVEL 7, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-12",
+        "INFO": null,
+        "LICNO": "2217802754",
+        "SS": "Can.Teen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 7E187A & 7E187B, LEVEL 7, EAST HALL, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-14",
+        "INFO": "#G#H",
+        "LICNO": "2217802763",
+        "SS": "Sushi and Sake Bar Taka",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 49 PAK SHE STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-21",
+        "INFO": null,
+        "LICNO": "2217802772",
+        "SS": "SI DAN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 260, 2/F., CITYGATE,  NO. 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-25",
+        "INFO": null,
+        "LICNO": "2217802781",
+        "SS": "COVA CAFFE-RISTORANTE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT G30, G/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-28",
+        "INFO": null,
+        "LICNO": "2217802790",
+        "SS": "OOLAA TUNG CHUNG",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 402, 4/F., CITYGATE , 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-01",
+        "INFO": null,
+        "LICNO": "2217802806",
+        "SS": "DAB-PA PEKING & SZECHUAN CUISINE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., TUNG SING LAU, MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-27",
+        "INFO": null,
+        "LICNO": "2217802842",
+        "SS": "東昇樓",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 332, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-23",
+        "INFO": null,
+        "LICNO": "2217802851",
+        "SS": "Tasty Congee & Noodle Wantun Shop",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 401, 4/F., AND THE OUTSIDE SEATING ACCOMODATIONAT SHOP FRONT, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-02",
+        "INFO": "#A#G",
+        "LICNO": "2217802860",
+        "SS": "Lian Vietnamese & Thai Cuisine",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT NO. 5E517C, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-05",
+        "INFO": null,
+        "LICNO": "2217802879",
+        "SS": "KAM KEE CAFE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION A OF SHOP 5Z568 LEVEL 5 OF TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-23",
+        "INFO": null,
+        "LICNO": "2217802888",
+        "SS": "Plaza Premium Lounge",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "FRONT PORTION OF G/F., BLOCK A, LOT 1529, 5 SAN PAK SHE STREET, CHEUNG CHAU , HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-16",
+        "INFO": null,
+        "LICNO": "2217802897",
+        "SS": "平安餐室",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 110C, 1/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-29",
+        "INFO": null,
+        "LICNO": "2217802903",
+        "SS": "譚仔雲南米線",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G27, G/F., 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-26",
+        "INFO": null,
+        "LICNO": "2217802912",
+        "SS": "越不同",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 7W520, 7W520A, 7W521, 7W521A, 7W522 & 7W530, LEVEL 7, DEPARTURES WEST HALL, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-27",
+        "INFO": null,
+        "LICNO": "2217802921",
+        "SS": "SAPPHIRE LOUNGE BY THE CLUB",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "2/F (PORTION A, PORTION B AND PORTION C), SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-11",
+        "INFO": null,
+        "LICNO": "2217802949",
+        "SS": "Yue",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "1/F (PORTION A AND PORTION B), SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-12",
+        "INFO": "#E#F#G#H",
+        "LICNO": "2217802958",
+        "SS": "Cafe Lantau, Sheraton Executive Lounge",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F (PORTION A), FOUR POINTS BY SHERATON HONG KONG TUNG CHUNG, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-12",
+        "INFO": "#F#G#H",
+        "LICNO": "2217802967",
+        "SS": "The Harbour Lounge, Tung Chung Kitchen",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "19/F (PORTION A), SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-13",
+        "INFO": "#E#F#G#H",
+        "LICNO": "2217802976",
+        "SS": "Sunset Grill",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "L9(PORTION A) AND L15(PORTION A), THE SILVERI HONG KONG - MGALLERY, 16 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-02",
+        "INFO": "#F#G#H",
+        "LICNO": "2217802985",
+        "SS": "The Silveri Hong Kong - MGallery",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 298, 2/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-03",
+        "INFO": null,
+        "LICNO": "2217802994",
+        "SS": "Cinnabon",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 16 CHUNG HING SAN STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-06",
+        "INFO": null,
+        "LICNO": "2217803003",
+        "SS": "羊羊小廚",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. 23, G/F., FU TUNG PLAZA,  6 FU TUNG STREET, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-20",
+        "INFO": null,
+        "LICNO": "2217803012",
+        "SS": "Mos Burger",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 102, 1/F., SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-14",
+        "INFO": null,
+        "LICNO": "2217803021",
+        "SS": "Funky Monkey Tung Chung",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP G10, G/F., SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-20",
+        "INFO": null,
+        "LICNO": "2217803030",
+        "SS": "MAISON DU MEZZE",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 11, G/F., SHERATON HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-03",
+        "INFO": null,
+        "LICNO": "2217803049",
+        "SS": "EBENEEZER'S KEBAB & PIZZERIA",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION A OF SHOP UNIT NO. G61, G/F., DB PLAZA (BLOCK C), AND THE EXTENSION THERETO, DISCOVERY BAY CITY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-04",
+        "INFO": null,
+        "LICNO": "2217803058",
+        "SS": "BONES AND BLADES",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NO. G30, G/F, 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-15",
+        "INFO": null,
+        "LICNO": "2217803067",
+        "SS": "TASTE OF THAI",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 2, G/F, 6 NGAN KWONG WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-16",
+        "INFO": null,
+        "LICNO": "2217803085",
+        "SS": "Grill House",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 106, 1/F., SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-26",
+        "INFO": null,
+        "LICNO": "2217803094",
+        "SS": "La Vista Mexican Restaurant & Bar",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., BLOCK 2A & 2B (DD 3 LOTS 2257 & 2258) WONG NAI UK, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-08",
+        "INFO": null,
+        "LICNO": "2217803100",
+        "SS": "PIZZA AND CHICKEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 49 WING ON STREET, TAI O, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-24",
+        "INFO": null,
+        "LICNO": "2217803128",
+        "SS": "(no record found)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP NOS. 29-30, THE PODIUM FIRST FLOOR, CARIBBEAN SQUARE, CARIBBEAN COAST, NO. 1 KIN TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-11-23",
+        "INFO": null,
+        "LICNO": "3817802795",
+        "SS": "McDonald's Restaurant",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION A OF G/F., 11 CHUNG HING SAN STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-01",
+        "INFO": null,
+        "LICNO": "3817802801",
+        "SS": "no. 11",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "UNIT 707, 7/F, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-07",
+        "INFO": null,
+        "LICNO": "3817802810",
+        "SS": "LDK BY UFUFU",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., NO. 5 MA WAN NEW VILLAGE, LOT NO. 2470 IN D.D.3, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-09",
+        "INFO": null,
+        "LICNO": "3817802829",
+        "SS": "(no record found)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "STALL YT4+YT5+YT6, MARKET AT G/F, YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-19",
+        "INFO": null,
+        "LICNO": "3817802838",
+        "SS": "(no record found)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 317FB, G/F., PASSENGER CLEARANCE BUILDING, HONG KONG BOUNDARY CROSSING FACILITIES, HONG KONG-ZHUHAI-MACAO BRIDGE, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-01",
+        "INFO": null,
+        "LICNO": "3817802847",
+        "SS": "CHECK POINT CANTEEN",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION A OF G/F, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-05",
+        "INFO": "#E#G#H",
+        "LICNO": "3817802856",
+        "SS": "Petra",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION A OF 1/F, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-19",
+        "INFO": "#E#F#G#H",
+        "LICNO": "3817802865",
+        "SS": "Regala Grand Ballroom",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "PORTION B OF 1/F, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-19",
+        "INFO": "#E#F#G#H",
+        "LICNO": "3817802874",
+        "SS": "Palladium & Emerald",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP 5, G/F AND C/L, SCENIC CREST, 18A MUI WO FERRY PIER ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-19",
+        "INFO": null,
+        "LICNO": "3817802883",
+        "SS": "(no record found)",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F., 80 TAI WAN NAM, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-26",
+        "INFO": null,
+        "LICNO": "3817802892",
+        "SS": "ANDY'S SEAFOOD BAR & RESTAURANT COMPANY",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "SHOP L & M, G/F., RETAIL SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-01",
+        "INFO": null,
+        "LICNO": "3817802908",
+        "SS": "FULL FLAVOUR",
+        "TYPE": "RL"
+    },
+    {
+        "ADR": "G/F AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT, 4 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-17",
+        "INFO": "#A",
+        "LICNO": "3117000055",
+        "SS": "富苑茶餐廳",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 2 & 4, G/F & C/L, AND OUTSIDE SEATING AREAS AT SHOP FRONT, MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-22",
+        "INFO": "#A",
+        "LICNO": "3117000064",
+        "SS": "China Bear",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., DD 302, LOT 443, 3 TAI O MARKET STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-06",
+        "INFO": null,
+        "LICNO": "3117000082",
+        "SS": "漁村美食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F, 116 HING LUNG MAIN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-13",
+        "INFO": "#B",
+        "LICNO": "3117000091",
+        "SS": "彗星廊",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F, 18 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-17",
+        "INFO": null,
+        "LICNO": "3117000143",
+        "SS": "Fountain Head",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F, 36 CHUNG HING PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-15",
+        "INFO": null,
+        "LICNO": "3117000152",
+        "SS": "凱濤美食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "NO. 1 , G/F., SEA VIEW HOUSE, 7-12 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-23",
+        "INFO": null,
+        "LICNO": "3117000189",
+        "SS": "新菜園",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT 9, LEVEL  6, SOUTH WEST CONCOURSE, PASSENGER TERMINAL BUILDING, H.K. INT'L AIRPORT, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-10",
+        "INFO": null,
+        "LICNO": "3117000240",
+        "SS": "Starbucks Coffee",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 3 PENG CHAU WING ON SIDE STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-28",
+        "INFO": null,
+        "LICNO": "3117000268",
+        "SS": "嘉賓",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "3B PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000277",
+        "SS": "祺森冰室",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "39 HOI PONG STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000301",
+        "SS": "亞倫冰室",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 50A HING LUNG  BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000310",
+        "SS": "興隆茶餐廳",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 188 TAI SAN BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000329",
+        "SS": "華美",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "79 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000338",
+        "SS": "Bookworm Café",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 53 KAT HING STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000347",
+        "SS": "強記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 35 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000383",
+        "SS": "津津",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 2 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000417",
+        "SS": "興隆小食菜館",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 185 SAN HING BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000426",
+        "SS": "友記冰室",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F, 50 KAT HING STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000444",
+        "SS": "永生冰室",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 25 SAN HING HOI PONG STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000453",
+        "SS": "英皇",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 54 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000471",
+        "SS": "頂好",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 188 SAN HING BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000499",
+        "SS": "永利",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 193 SAN HING BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000505",
+        "SS": "騰記粥麵店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 15 PENG CHAU WING HING STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000514",
+        "SS": "金源",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 29B TAI SAN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000523",
+        "SS": "寬記麵家",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F, 103 TAI SAN BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000532",
+        "SS": "到此一遊",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F. (PORTION), 14 TUNG WAN TAU ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000541",
+        "SS": "梅窩酒店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 2BB PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000550",
+        "SS": "孖發",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 111 HING LUNG MAIN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000569",
+        "SS": "雷射",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 84 TUNG WAN ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000578",
+        "SS": "花園雅座",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 46 TAI SAN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000587",
+        "SS": "新金花餐廳",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 1A PENG CHAU WING HING STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000596",
+        "SS": "榮華",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F. (FRONT PORTION), 53 TAI O WING ON STREET, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000602",
+        "SS": "漢記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 44 TAI SAN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000611",
+        "SS": "藍鳥美食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., DD 313, LOT 226, SECTION C, 69 TAI O WING ON STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000620",
+        "SS": "黃華",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 92 SAN HING BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000639",
+        "SS": "張氏",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 120 TAI SAN BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000648",
+        "SS": "安記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 38F MUI WO CHUNG HAU STREET, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000657",
+        "SS": "麥生記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 75 TAI SAN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000666",
+        "SS": "阿二麵家",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F (REAR PORTION), 1K PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000675",
+        "SS": "興記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "NO. 10, G/F., KAM HO COURT, TREASURY BAY, TAI SHEK HAU, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000684",
+        "SS": "金豪小食店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 17 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000693",
+        "SS": "榮記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 47 TAI SAN STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000709",
+        "SS": "亞信",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 7 KIN SAN LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000718",
+        "SS": "Island's Cafe",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "FLAT B, G/F., CONCERTO INN, 28 HUNG SHING YEH BEACH, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000745",
+        "SS": "Concerto Inn",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 15 KIN SAN LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000754",
+        "SS": "滿棧",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 2 SAN KAI SHI LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000763",
+        "SS": "食得樂",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F. (FRONT PORTION), 119 TAI O TAI PING STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000772",
+        "SS": "金碧",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 29 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000781",
+        "SS": "HOHO KITCHEN",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 66 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-30",
+        "INFO": null,
+        "LICNO": "3117000790",
+        "SS": "Dream Cafe",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 55 HING LUNG BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-16",
+        "INFO": null,
+        "LICNO": "3117000806",
+        "SS": "三寶",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 18 TAI HING TAI ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-26",
+        "INFO": null,
+        "LICNO": "3117000824",
+        "SS": "City bar",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 59 HING LUNG BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-29",
+        "INFO": null,
+        "LICNO": "3117000897",
+        "SS": "開心店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 18 TUNG WAN ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-24",
+        "INFO": null,
+        "LICNO": "3117000921",
+        "SS": "新照記士多小食店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F & 1/F (FP), 103 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-28",
+        "INFO": null,
+        "LICNO": "3117000930",
+        "SS": "McDonald's",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 53 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-29",
+        "INFO": null,
+        "LICNO": "3117000949",
+        "SS": "快車",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 32 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-06",
+        "INFO": null,
+        "LICNO": "3117000967",
+        "SS": "榕樹頭粉麵",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., DD 3, LOT 2487, MA WAN VILLAGE, PA MEI ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-07",
+        "INFO": null,
+        "LICNO": "3117000976",
+        "SS": "天廚菜館",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., DD 316, LOT 3056, 11A LO WAI VILLAGE, PUI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-26",
+        "INFO": null,
+        "LICNO": "3117001012",
+        "SS": "新輝",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "1/F. (PORTION), THE DAKOTA CLUB, CATHAY PACIFIC CITY, H.K. INT'L AIRPORT, 8 SCENIC ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-21",
+        "INFO": null,
+        "LICNO": "3117001058",
+        "SS": "Dakotas",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 85 KAT HING STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-11-24",
+        "INFO": null,
+        "LICNO": "3117001067",
+        "SS": "全記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F. REAR BLOCK, 50 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-30",
+        "INFO": null,
+        "LICNO": "3117001085",
+        "SS": "粵蜀樂",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 5 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-22",
+        "INFO": null,
+        "LICNO": "3117001094",
+        "SS": "允升甜品",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 101 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-23",
+        "INFO": null,
+        "LICNO": "3117001146",
+        "SS": "911餐廳",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 12 KIN SAN LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-15",
+        "INFO": null,
+        "LICNO": "3117001164",
+        "SS": "Café de Katie",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F, 35 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-29",
+        "INFO": null,
+        "LICNO": "3117001216",
+        "SS": "榮仔粥店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "POOL BAR, LEVEL 1 (PORTION), DISNEY'S HOLLYWOOD HOTEL, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-05",
+        "INFO": null,
+        "LICNO": "3117001225",
+        "SS": "No Record",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F. (FRONT PORTION), 14 CHUNG HOK ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-03",
+        "INFO": null,
+        "LICNO": "3117001234",
+        "SS": "友記小食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "F & B 16, 1/F., ASIA WORLD-EXPO, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-12",
+        "INFO": null,
+        "LICNO": "3117800039",
+        "SS": "Spotlight Bar",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 5 TAI HING TAI ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-19",
+        "INFO": null,
+        "LICNO": "3117800048",
+        "SS": "嚐甜甜品屋",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "21/F (PORTION), NOVOTEL CITYGATE, 51 MAN TUNG ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-26",
+        "INFO": null,
+        "LICNO": "3117800057",
+        "SS": "Novotel Citygate Hong Kong",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT 225, 2/F., NOVOTEL CITYGATE, NO. 51 MAN TUNG ROAD, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-25",
+        "INFO": null,
+        "LICNO": "3117800066",
+        "SS": "Novotel Citygate Hong Kong",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. 10, LOT NO. 238 IN DD, NGONG PING VILLAGE, NGONG PING, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-11-29",
+        "INFO": null,
+        "LICNO": "3117800075",
+        "SS": "STARBUCKS COFFEE",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 8, G/F. & COCKLOFT, MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-12-04",
+        "INFO": null,
+        "LICNO": "3117800084",
+        "SS": "CAFFE PARADISO",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. 5, NGONG PING VILLAGE, NGONG PING, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-01",
+        "INFO": null,
+        "LICNO": "3117800118",
+        "SS": "Honeymoon Dessert",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. G08A, G/F., BLOCK A, AND THE OUTSIDE SEATING ACCOMMODATION IN FRONT OF THE PREMISES, DB PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-04",
+        "INFO": "#A",
+        "LICNO": "3117800136",
+        "SS": "Coyote Mexican Cantina",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "PORTION OF UNIT 243, CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-05",
+        "INFO": null,
+        "LICNO": "3117800145",
+        "SS": "PACIFIC COFFEE COMPANY",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP G01A, G/F., BLOCK A, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-27",
+        "INFO": null,
+        "LICNO": "3117800190",
+        "SS": "PACIFIC COFFEE COMPANY",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 78 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-07",
+        "INFO": null,
+        "LICNO": "3117800206",
+        "SS": "CHEUNG CHAU CORNER",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP G06, G/F., BLOCK A, DB PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-17",
+        "INFO": null,
+        "LICNO": "3117800224",
+        "SS": "THREE SHEETS MARQUEE BAR",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F (FRONT BLOCK), 3 PAK SHE SEVENTH LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-08",
+        "INFO": null,
+        "LICNO": "3117800349",
+        "SS": "醉雞店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "GROUND FLOOR, 13A PAK SHE PRAYA ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-12-10",
+        "INFO": null,
+        "LICNO": "3117800367",
+        "SS": "Winner",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 16 TUNG WAN ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-13",
+        "INFO": null,
+        "LICNO": "3117800400",
+        "SS": "GIANT POTATO CHIPS",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 91A PRAYA STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-17",
+        "INFO": null,
+        "LICNO": "3117800428",
+        "SS": "Hon Hin Restaurant",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NOS. G30, G31 & G32A, G/F., BLOCK C, DB PLAZA, DISCOVERY BAY, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-07",
+        "INFO": null,
+        "LICNO": "3117800446",
+        "SS": "IL BEL PAESE",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "REAR, G/F., NO. 5 KIN SAN LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-03",
+        "INFO": null,
+        "LICNO": "3117800455",
+        "SS": "海寶餐廳",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 186 TAI SUN BACK STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-12",
+        "INFO": null,
+        "LICNO": "3117800473",
+        "SS": "Dao Dao Noodles",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "LG19, LOWER GROUND, DISCOVERY BAY NORTH DEVELOPMENT, DISCOVERY BAY, 92 SIENA AVENUE, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-28",
+        "INFO": null,
+        "LICNO": "3117800482",
+        "SS": "UNCLE RUSS COFFEE",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "PORTION B, SHOP NO. 9, G/F., NGONG PING THEME VILLAGE, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-13",
+        "INFO": null,
+        "LICNO": "3117800491",
+        "SS": "SUBWAY",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT G19, CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-20",
+        "INFO": null,
+        "LICNO": "3117800507",
+        "SS": "Starbucks Coffee",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP A, G/F., 86 TAI SAN PRAYA ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-25",
+        "INFO": null,
+        "LICNO": "3117800516",
+        "SS": "餃子冰室",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 54 YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-13",
+        "INFO": null,
+        "LICNO": "3117800525",
+        "SS": "JING JING",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 57 KAT HING STREET, TAI O, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-19",
+        "INFO": null,
+        "LICNO": "3117800543",
+        "SS": "Espace Elastique",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "LOT 1502, 1B (PORTION),  PAK SHE FOURTH LANE, G/F., CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-10",
+        "INFO": null,
+        "LICNO": "3117800552",
+        "SS": "好運小食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 28 TAI SAN STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-13",
+        "INFO": null,
+        "LICNO": "3117800589",
+        "SS": "玖拾",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 65 SAN HING STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-16",
+        "INFO": null,
+        "LICNO": "3117800598",
+        "SS": "Red Point",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 113 TAI SAN PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-17",
+        "INFO": null,
+        "LICNO": "3117800604",
+        "SS": "長洲釗記冰室",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 3 SUN HING PRAYA STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-11-07",
+        "INFO": null,
+        "LICNO": "3117800613",
+        "SS": "Base to eat",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 19B PRAYA ROAD, PAK SHE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-23",
+        "INFO": null,
+        "LICNO": "3117800622",
+        "SS": "麵對麵",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., LOT NO. 1612, 17 CHUNG HING SAN STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-14",
+        "INFO": null,
+        "LICNO": "3117800631",
+        "SS": "勝記小食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 81 TAI SAN STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-17",
+        "INFO": null,
+        "LICNO": "3117800640",
+        "SS": "和樂",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., LOT 808, 57 SAN HING PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-05-12",
+        "INFO": null,
+        "LICNO": "3117800659",
+        "SS": "Haika Coffee",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "LOT 1348, 63 SAN HING PRAYA ROAD, G/F., CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-23",
+        "INFO": null,
+        "LICNO": "3117800668",
+        "SS": "Rainbow Cafe",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "GROUND FLOOR, NO. 16 FIRST STREET, SOK KWU WAN, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-27",
+        "INFO": null,
+        "LICNO": "3117800677",
+        "SS": "BEBE V",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "LOT. 1561, 36 SAN HING STREET FRONT, G/F., CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-11-14",
+        "INFO": null,
+        "LICNO": "3117800686",
+        "SS": "火車頭",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "FRONT, G/F., NO. 2-A, PAK SHE 7TH LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-10",
+        "INFO": null,
+        "LICNO": "3117800695",
+        "SS": "GARY KITCHEN",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 18 & 19, G/F., COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS FU TUNG PLAZA), FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-04-01",
+        "INFO": null,
+        "LICNO": "3117800701",
+        "SS": "八方雲集",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 1 SAN KAN SHI LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-02",
+        "INFO": null,
+        "LICNO": "3117800710",
+        "SS": "TO'S HOUSE",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 5A, G/F., 82 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-28",
+        "INFO": null,
+        "LICNO": "3117800729",
+        "SS": "The Bounty Entertainment & Sports Bar",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 11 KIN SAN LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-05",
+        "INFO": null,
+        "LICNO": "3117800738",
+        "SS": "The pink pig music bar and restaurant",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 8A WING ON STREET, PENG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-26",
+        "INFO": null,
+        "LICNO": "3117800747",
+        "SS": "Peng Chau Cafe",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 45 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-01",
+        "INFO": null,
+        "LICNO": "3117800765",
+        "SS": "No Record",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 32, GROUND FLOOR, YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, 8 YAT TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-12-23",
+        "INFO": null,
+        "LICNO": "3117800808",
+        "SS": "HUNG FOOK TONG",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., FRONT PORTION, NO. 6 CHUNG HOK ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-24",
+        "INFO": null,
+        "LICNO": "3117800817",
+        "SS": "喜姐小食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 47 WING ON STREET, TAI O, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-25",
+        "INFO": null,
+        "LICNO": "3117800826",
+        "SS": "旭日美食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 6 SAN KAI SHI LANE, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-08-14",
+        "INFO": null,
+        "LICNO": "3117800853",
+        "SS": "到此一遊",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 9B, G/F., THE COMMERCIAL DEVELOPMENT COASTAL SKYLINE, NO. 12 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-08",
+        "INFO": null,
+        "LICNO": "3117800862",
+        "SS": "THE TAVERN",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 70 KAT HING STREET, TAI O, LANTAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-11-16",
+        "INFO": null,
+        "LICNO": "3117800871",
+        "SS": "大澳小食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 83 SAN HING STREET, CHEUNG CHAU, ISLANDS, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-16",
+        "INFO": null,
+        "LICNO": "3117800899",
+        "SS": "HARI'S",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 45 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-30",
+        "INFO": null,
+        "LICNO": "3117800905",
+        "SS": "mtea",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP G23 AND PORTION OF SHOP FRONT CORRIDOR, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-09",
+        "INFO": null,
+        "LICNO": "3117800914",
+        "SS": "Starbucks Coffee",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. 4, G/F., 6 NGAN KWONG WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-17",
+        "INFO": null,
+        "LICNO": "3117800923",
+        "SS": "Starbucks Coffee",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "FRONT PORTION OF G/F., 57 TAI O WING ON STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-06-01",
+        "INFO": null,
+        "LICNO": "3117800932",
+        "SS": "瑞昌車站豆腐花",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 88 KAT HING STREET, TAI O, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-17",
+        "INFO": null,
+        "LICNO": "3117800941",
+        "SS": "蘇盧棚頭茶歇",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 75 PENG CHAU WING ON STREET, PENG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-14",
+        "INFO": null,
+        "LICNO": "3117800950",
+        "SS": "The Old China Hand",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. G02, G/F., CENTURY LINK, 6 YING HONG STREET, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-19",
+        "INFO": null,
+        "LICNO": "3117800969",
+        "SS": "Starbucks Coffee",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT G18, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-14",
+        "INFO": null,
+        "LICNO": "3117800987",
+        "SS": "Pret A Manger",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 13 & 14 TSAN TUEN ROAD, SAI WAN, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2021-11-21",
+        "INFO": null,
+        "LICNO": "3117800996",
+        "SS": "Pirate Bay．Cheung Chau",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., BLOCK A, 9 SAN PAK SHE STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-09",
+        "INFO": null,
+        "LICNO": "3117801005",
+        "SS": "海景食店",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT 5NC154, LEVEL 5, NORTH SATELLITE CONCOURSE, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-13",
+        "INFO": null,
+        "LICNO": "3117801014",
+        "SS": "Pacific Coffee Company",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., BLOCK A, NO. 25 TSAN TUEN ROAD, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-14",
+        "INFO": null,
+        "LICNO": "3117801023",
+        "SS": "HEIMA",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 5T115 IN TERMINAL 1, PASSENGER TERMINAL BUILDING, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-26",
+        "INFO": null,
+        "LICNO": "3117801032",
+        "SS": "Root 98 Grab 'n' Go",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT 7E143, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-04-29",
+        "INFO": null,
+        "LICNO": "3117801041",
+        "SS": "Caviar House & Prunier",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT 7E150, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-26",
+        "INFO": null,
+        "LICNO": "3117801050",
+        "SS": "Caviar House & Prunier",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F. & C/L., NO. 17 WING ON STREET, PENG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-11",
+        "INFO": null,
+        "LICNO": "3117801078",
+        "SS": "甜蜜蜜",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 108 TAI SAN BACK STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-07-23",
+        "INFO": null,
+        "LICNO": "3117801087",
+        "SS": "BROTHER IZAKAYA",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT NOS. 7E142A & 7E151 AT EAST HALL ON LEVEL 7 IN TERMINAL 1, HONG KONG INTERNATIONAL AIRPOR, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-31",
+        "INFO": null,
+        "LICNO": "3117801096",
+        "SS": "Lady M",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 35 PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-23",
+        "INFO": null,
+        "LICNO": "3117801102",
+        "SS": "Arena Bar",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 10 PAK SHE STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-25",
+        "INFO": null,
+        "LICNO": "3117801111",
+        "SS": "THAI SNACK",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. G26B, G/F., 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-26",
+        "INFO": null,
+        "LICNO": "3117801120",
+        "SS": "Starbucks Coffee",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 83A PRAYA ROAD, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-20",
+        "INFO": null,
+        "LICNO": "3117801148",
+        "SS": "張記",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 2 SAN HING PRAYA STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-11-06",
+        "INFO": null,
+        "LICNO": "3117801157",
+        "SS": "橘貓子",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 9, G/F., MUI WO CENTRE, NO. 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-11-13",
+        "INFO": null,
+        "LICNO": "3117801166",
+        "SS": "曼谷小廚",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 48 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-14",
+        "INFO": null,
+        "LICNO": "3117801175",
+        "SS": "八十后小食",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 83 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-20",
+        "INFO": null,
+        "LICNO": "3117801184",
+        "SS": "KURI KURI",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 12 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-20",
+        "INFO": null,
+        "LICNO": "3117801193",
+        "SS": "Join Shui Yat Fong",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., BLOCK A, 51 YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-22",
+        "INFO": null,
+        "LICNO": "3117801209",
+        "SS": "DIESEL'S",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 4 SAN HING STREET, CHEUNG CHAU, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-01-24",
+        "INFO": null,
+        "LICNO": "3117801218",
+        "SS": "啡寮",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP G07, G/F., JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-24",
+        "INFO": null,
+        "LICNO": "3117801236",
+        "SS": "八方雲集",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "UNIT 6V523A, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-11-18",
+        "INFO": null,
+        "LICNO": "3117801245",
+        "SS": "KARAVANSTOP",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 106B YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-02-05",
+        "INFO": null,
+        "LICNO": "3117801254",
+        "SS": "Coffee Philharmonic",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 604, 6/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-17",
+        "INFO": null,
+        "LICNO": "3117801263",
+        "SS": "HAAGEN DAZS",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "PORTION A OF CINEMA AT PORTION OF LEVEL 6, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-27",
+        "INFO": null,
+        "LICNO": "3117801272",
+        "SS": "MCL Citygate Cinema",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., D.D.3, LOT 1904, NO. 10 SHA PO NEW VILLAGE, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-21",
+        "INFO": null,
+        "LICNO": "3117801281",
+        "SS": "THE BEER SHACK",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 4 BACK STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-07",
+        "INFO": null,
+        "LICNO": "3117801290",
+        "SS": "BEST KEBAB (LAMMA)",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "PORTION A OF ROOM 7W511 7W511A, 7W511B, 7W511C & 7W536, LEVEL 7, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-09-03",
+        "INFO": null,
+        "LICNO": "3117801306",
+        "SS": "PLAZA PREMIUM LOUNGE",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 21 MUI WO CHUNG HAU STREET, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-09-28",
+        "INFO": null,
+        "LICNO": "3117801315",
+        "SS": "PAUSE CAFE",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. 1, G/F., NGONG PING THEME VILLAGE, NGONG PING, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-08",
+        "INFO": null,
+        "LICNO": "3117801324",
+        "SS": "COLOR CHACHA",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP G10, G/F., 92 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-03-28",
+        "INFO": null,
+        "LICNO": "3117801333",
+        "SS": "HanMade",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F. (PORTION B), SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-09",
+        "INFO": null,
+        "LICNO": "3117801342",
+        "SS": "Lobby Lounge",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "3/F (PORTION B), SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-05-13",
+        "INFO": null,
+        "LICNO": "3117801351",
+        "SS": "Pool Bar",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 11 SAN HING PRAYA STREET, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-06-17",
+        "INFO": null,
+        "LICNO": "3117801360",
+        "SS": "Paradise Island",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP G07, G/F., SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-01",
+        "INFO": null,
+        "LICNO": "3117801379",
+        "SS": "3 Italiani",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "PORTION A OF SHOP G03, G/F., SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-07-04",
+        "INFO": null,
+        "LICNO": "3117801388",
+        "SS": "Bhavika",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "PORTION A OF LOT 1637 SA22 SAI WAN, G/F., CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-08-26",
+        "INFO": null,
+        "LICNO": "3117801397",
+        "SS": "One Day",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., NO. 9C WING HING STREET, PENG CHAU, ISLANDS, NEW TERRITORIES",
+        "DIST": "17",
+        "EXPDATE": "2022-10-03",
+        "INFO": null,
+        "LICNO": "3117801403",
+        "SS": "Island Table Limited",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 15A YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-05",
+        "INFO": null,
+        "LICNO": "3117801412",
+        "SS": "JAYBIRD",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP 263, 2/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-10-17",
+        "INFO": null,
+        "LICNO": "3117801421",
+        "SS": "i CREMERiA",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., LOT NO. 2394 IN D.D.3, MA WAN CHUNG, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2021-12-01",
+        "INFO": null,
+        "LICNO": "3917801225",
+        "SS": "Tung Chung Station",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "G/F., 4A PAK SHE FIFTH LANE, CHEUNG CHAU, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-01-05",
+        "INFO": null,
+        "LICNO": "3917801234",
+        "SS": "三：三",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP NO. 17, G/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-02-03",
+        "INFO": null,
+        "LICNO": "3917801243",
+        "SS": "櫻子屋",
+        "TYPE": "RR"
+    },
+    {
+        "ADR": "SHOP UNIT G65, G/F, DB PLAZA (BLOCK C) AND THE EXTENSION THERETO, DISCOVERY BAY CITY, LANTAU ISLAND, HONG KONG",
+        "DIST": "17",
+        "EXPDATE": "2022-03-16",
+        "INFO": null,
+        "LICNO": "3917801252",
+        "SS": "THE COFFEE ACADEMICS",
+        "TYPE": "RR"
+    }
+]
